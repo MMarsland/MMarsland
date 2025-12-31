@@ -13,8 +13,9 @@ All the best and happy coding,
 Cheers,  
 Michael Marsland
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmarsland&base=1234&label=Visitor+Count&color=brightgreen" />
+</p>
 <a href=#><img src="contributions.svg"></a>
 
-<div align="center"> 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=mmarsland&base=1234&label=Visitor+Count&color=brightgreen)
-</div>
+
