@@ -16,5 +16,6 @@ Michael Marsland
 <a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
-  ![](https://komarev.com/ghpvc/?username=mmarsland&base=1200&label=Visitor+Count&color=brightgreen)
+  ![](https://komarev.com/ghpvc/?username=mmarsland)  
+  [](https://komarev.com/ghpvc/?username=mmarsland&base=1200&label=Visitor+Count&color=brightgreen)
 </p>
