@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on any positions or projects you may have. I love to work in small teams and have a direct impact while also learning personally from more experienced engineers and allowing my individual skillset to be an asset.
 - 📫 Please feel free to reach out to me via email at mmarsland@mac.com with any collaboration ideas, career prospects, or simply just to expand our networks.
 
-Aside from reading some of the READMEs of my various projects here on Github you can play around with some of my Web Development Projects on my [Website](https://mmarsland.com) here: [Portfolio](https://mmarsland.com/projects)
-
-Also check out my most recent project, My Movember Campaign, Save-Or-Shave, for which I designed, built, and have hosted at [Save-Or-Shave](https://mmarsland.com/save-or-shave/mmarsland). This year we raised over $1000 dollars for the Movember Campaign.
+Aside from reading some of the READMEs of my various projects here on Github you learn more about me on my [Website](https://mmarsland.com) or check out my most recent project, My Movember Campaign, Save-Or-Shave, for which I designed, built, and have hosted at [Save-Or-Shave](https://mmarsland.com/saveorshave/m/mmarsland). This year we raised over $1000 dollars for the Movember Campaign.
 
 All the best and happy coding,
 
